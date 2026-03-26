@@ -12,18 +12,19 @@ Internet connection required for activation and updates
 
 Download & Install:
 
-Download Bitmac.pkg
-Run Bitmac.pkg
-Press OK to close the warning notification
-Open ⚙️ System Preferences
-Click Security & Privacy
-Click General
-If the lock at the bottom left is locked 🔒 click it to unlock the preference pane.
-Press Open Anyway
-Press Open
+1. Download Bitmac.pkg
+2. Run Bitmac.pkg
+3. Press OK to close the warning notification
+4. Open ⚙️ System Preferences
+5. Click Security & Privacy
+6. Click General
+7. If the lock at the bottom left is locked 🔒 click it to unlock the preference pane.
+8. Press Open Anyway
+9. Press Open
+
 Install:
 
-Press Continue
-Press Install
-Enter your Mac Password or use Touch ID
-Press Close
+1. Press Continue
+2. Press Install
+3. Enter your Mac Password or use Touch ID
+4. Press Close
