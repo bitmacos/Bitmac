@@ -12,15 +12,16 @@ Internet connection required for activation and updates
 
 Download & Install:
 
-1. Download Bitmac.pkg
-2. Run Bitmac.pkg
-3. Press OK to close the warning notification
-4. Open ⚙️ System Preferences
-5. Click Security & Privacy
-6. Click General
-7. If the lock at the bottom left is locked 🔒 click it to unlock the preference pane.
-8. Press Open Anyway
-9. Press Open
+1. Download Bitmac.pkg for Apple Silicon or
+2. Download Bitmac Universal.pkg for Intel Core
+3. Run Bitmac.pkg
+4. Press OK to close the warning notification
+5. Open ⚙️ System Preferences
+6. Click Security & Privacy
+7. Click General
+8. If the lock at the bottom left is locked 🔒 click it to unlock the preference pane.
+9. Press Open Anyway
+10. Press Open
 
 Install:
 
