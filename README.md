@@ -2,7 +2,7 @@ System Requirements:
 
 Operating System: macOS Catalina or later
 
-Processor: Intel Core or Apple Silicon
+Processor: Intel (x86_64) or Apple Silicon (M1 or later)
 
 Memory: Minimum 8 GB RAM
 
@@ -12,8 +12,8 @@ Internet connection required for activation and updates
 
 Download & Install:
 
-1. Download Bitmac.pkg for Apple Silicon or
-2. Download Bitmac Universal.pkg for Intel Core
+1. Download Bitmac.pkg (Support: Apple Silicon M1 or later)
+2. Download Bitmac.pkg Universal (Support Early 2011 Devices: Intel x86_64)
 3. Run Bitmac.pkg
 4. Press OK to close the warning notification
 5. Open ⚙️ System Preferences
