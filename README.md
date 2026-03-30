@@ -1,8 +1,8 @@
 System Requirements:
 
-Operating System: macOS 11.0 Big Sur or later
+Operating System: macOS Catalina or later
 
-Processor: Apple Silicon (M1 or later)
+Processor: Intel Core or Apple Silicon
 
 Memory: Minimum 8 GB RAM
 
